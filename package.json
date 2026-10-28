@@ -1,0 +1,35 @@
+{
+  "name": "discord-wizard-setup-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord con asistente guiado interactivo de 5 pasos que edita un solo mensaje, modales, select menus, toggle roles y memoria",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "deploy": "node src/deploy-commands.js",
+    "validate:templates": "node src/config/validar-plantillas.js",
+    "generate:templates": "node scripts/generate-template-catalog.js",
+    "test": "jest --runInBand"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "setup-wizard",
+    "modal",
+    "select-menu",
+    "single-message",
+    "persistent-state"
+  ],
+  "author": "Desarrollador Senior Discord",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "sql.js": "^1.15.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "key": "programacion",
+  "nombre": "💻 PROGRAMACIÓN",
+  "tema": "Ayuda técnica y desarrollo de software.",
+  "permisos": {
+    "audience": "programming",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "ayuda-codigo",
+      "nombre": "🆘・ayuda-codigo",
+      "tipo": "forum",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de ayuda codigo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "desarrollo-web",
+      "nombre": "🌐・desarrollo-web",
+      "tipo": "text",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de desarrollo web. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "python",
+      "nombre": "🐍・python",
+      "tipo": "text",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de python. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "javascript",
+      "nombre": "🟨・javascript",
+      "tipo": "text",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de javascript. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "desarrollo-movil",
+      "nombre": "📱・desarrollo-movil",
+      "tipo": "text",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de desarrollo movil. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "bases-de-datos",
+      "nombre": "🗄️・bases-de-datos",
+      "tipo": "text",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de bases de datos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "proyectos",
+      "nombre": "🚀・proyectos",
+      "tipo": "forum",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de proyectos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "recursos-programacion",
+      "nombre": "📚・recursos-programacion",
+      "tipo": "text",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de recursos programacion. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "pruebas-y-debug",
+      "nombre": "🧪・pruebas-y-debug",
+      "tipo": "text",
+      "tema": "Ayuda técnica y desarrollo de software. Canal de pruebas y debug. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "programming",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

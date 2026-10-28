@@ -1,0 +1,118 @@
+{
+  "key": "vip-boosters",
+  "nombre": "🌟 VIP Y BOOSTERS",
+  "tema": "Beneficios y espacios reservados para VIP y boosters.",
+  "permisos": {
+    "audience": "vip",
+    "readOnly": false,
+    "private": true
+  },
+  "privado": true,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "chat-vip",
+      "nombre": "💎・chat-vip",
+      "tipo": "text",
+      "tema": "Beneficios y espacios reservados para VIP y boosters. Canal de chat vip. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "vip",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "voz-vip",
+      "nombre": "🔊・voz-vip",
+      "tipo": "voice",
+      "tema": "Beneficios y espacios reservados para VIP y boosters. Canal de voz vip. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "vip",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "sorteos-vip",
+      "nombre": "🎁・sorteos-vip",
+      "tipo": "text",
+      "tema": "Beneficios y espacios reservados para VIP y boosters. Canal de sorteos vip. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "vip",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "ideas-vip",
+      "nombre": "💡・ideas-vip",
+      "tipo": "forum",
+      "tema": "Beneficios y espacios reservados para VIP y boosters. Canal de ideas vip. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "vip",
+        "readOnly": false,
+        "private": true
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "beneficios-vip",
+      "nombre": "🎁・beneficios-vip",
+      "tipo": "text",
+      "tema": "Beneficios y espacios reservados para VIP y boosters. Canal de beneficios vip. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "vip",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "sugerencias-vip",
+      "nombre": "🗳️・sugerencias-vip",
+      "tipo": "forum",
+      "tema": "Beneficios y espacios reservados para VIP y boosters. Canal de sugerencias vip. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "vip",
+        "readOnly": false,
+        "private": true
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "galeria-vip",
+      "nombre": "🖼️・galeria-vip",
+      "tipo": "text",
+      "tema": "Beneficios y espacios reservados para VIP y boosters. Canal de galeria vip. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "vip",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "anuncios-vip",
+      "nombre": "📣・anuncios-vip",
+      "tipo": "text",
+      "tema": "Beneficios y espacios reservados para VIP y boosters. Canal de anuncios vip. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "vip",
+        "readOnly": false,
+        "private": true
+      }
+    }
+  ]
+}

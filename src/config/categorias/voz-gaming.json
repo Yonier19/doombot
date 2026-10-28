@@ -1,0 +1,146 @@
+{
+  "key": "voz-gaming",
+  "nombre": "🎮 VOZ GAMING",
+  "tema": "Salas de voz para juegos casuales y competitivos.",
+  "permisos": {
+    "audience": "gaming",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "gaming-1",
+      "nombre": "🎮・gaming-1",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de gaming 1. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "gaming-2",
+      "nombre": "🎮・gaming-2",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de gaming 2. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "gaming-3",
+      "nombre": "🎮・gaming-3",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de gaming 3. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "gaming-4",
+      "nombre": "🎮・gaming-4",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de gaming 4. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "gaming-5",
+      "nombre": "🎮・gaming-5",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de gaming 5. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "gaming-6",
+      "nombre": "🎮・gaming-6",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de gaming 6. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "gaming-7",
+      "nombre": "🎮・gaming-7",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de gaming 7. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "gaming-8",
+      "nombre": "🎮・gaming-8",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de gaming 8. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "squad",
+      "nombre": "👥・squad",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de squad. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ranked",
+      "nombre": "🏅・ranked",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de ranked. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "torneo",
+      "nombre": "🏆・torneo",
+      "tipo": "voice",
+      "tema": "Salas de voz para juegos casuales y competitivos. Canal de torneo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

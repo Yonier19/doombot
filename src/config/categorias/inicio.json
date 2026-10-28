@@ -1,0 +1,132 @@
+{
+  "key": "inicio",
+  "nombre": "📌 INICIO",
+  "tema": "Información esencial y verificación para comenzar en la comunidad.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": true,
+    "private": false,
+    "newVisible": true
+  },
+  "privado": false,
+  "soloLectura": true,
+  "canales": [
+    {
+      "key": "bienvenida",
+      "nombre": "👋・bienvenida",
+      "tipo": "text",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de bienvenida. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "reglas",
+      "nombre": "📜・reglas",
+      "tipo": "text",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de reglas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "anuncios",
+      "nombre": "📢・anuncios",
+      "tipo": "announcement",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de anuncios. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "novedades",
+      "nombre": "🆕・novedades",
+      "tipo": "text",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de novedades. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "roles-y-niveles",
+      "nombre": "🏷️・roles-y-niveles",
+      "tipo": "text",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de roles y niveles. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "faq",
+      "nombre": "❓・faq",
+      "tipo": "text",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de faq. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "enlaces",
+      "nombre": "🔗・enlaces",
+      "tipo": "text",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de enlaces. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "verificacion",
+      "nombre": "✅・verificacion",
+      "tipo": "text",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de verificacion. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "despedidas",
+      "nombre": "👋・despedidas",
+      "tipo": "text",
+      "tema": "Información esencial y verificación para comenzar en la comunidad. Canal de despedidas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "key": "tienda",
+  "nombre": "🛒 TIENDA",
+  "tema": "Catálogo, pedidos, reseñas y soporte de productos.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "catalogo",
+      "nombre": "🛍️・catalogo",
+      "tipo": "text",
+      "tema": "Catálogo, pedidos, reseñas y soporte de productos. Canal de catalogo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "pedidos",
+      "nombre": "📦・pedidos",
+      "tipo": "text",
+      "tema": "Catálogo, pedidos, reseñas y soporte de productos. Canal de pedidos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "resenas",
+      "nombre": "⭐・resenas",
+      "tipo": "forum",
+      "tema": "Catálogo, pedidos, reseñas y soporte de productos. Canal de resenas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "ofertas-tienda",
+      "nombre": "🏷️・ofertas-tienda",
+      "tipo": "text",
+      "tema": "Catálogo, pedidos, reseñas y soporte de productos. Canal de ofertas tienda. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "preguntas-productos",
+      "nombre": "❔・preguntas-productos",
+      "tipo": "forum",
+      "tema": "Catálogo, pedidos, reseñas y soporte de productos. Canal de preguntas productos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "envios",
+      "nombre": "🚚・envios",
+      "tipo": "text",
+      "tema": "Catálogo, pedidos, reseñas y soporte de productos. Canal de envios. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "garantias",
+      "nombre": "🛡️・garantias",
+      "tipo": "text",
+      "tema": "Catálogo, pedidos, reseñas y soporte de productos. Canal de garantias. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "metodos-de-pago",
+      "nombre": "💳・metodos-de-pago",
+      "tipo": "text",
+      "tema": "Catálogo, pedidos, reseñas y soporte de productos. Canal de metodos de pago. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

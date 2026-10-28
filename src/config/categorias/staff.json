@@ -1,0 +1,115 @@
+{
+  "key": "staff",
+  "nombre": "🛡️ STAFF",
+  "tema": "Coordinación interna del equipo de moderación.",
+  "permisos": {
+    "audience": "staff",
+    "readOnly": false,
+    "private": true
+  },
+  "privado": true,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "chat-staff",
+      "nombre": "🛡️・chat-staff",
+      "tipo": "text",
+      "tema": "Coordinación interna del equipo de moderación. Canal de chat staff. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "anuncios-staff",
+      "nombre": "📢・anuncios-staff",
+      "tipo": "text",
+      "tema": "Coordinación interna del equipo de moderación. Canal de anuncios staff. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "comandos-staff",
+      "nombre": "🤖・comandos-staff",
+      "tipo": "text",
+      "tema": "Coordinación interna del equipo de moderación. Canal de comandos staff. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 2,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      },
+      "botCommands": true
+    },
+    {
+      "key": "reuniones",
+      "nombre": "🤝・reuniones",
+      "tipo": "voice",
+      "tema": "Coordinación interna del equipo de moderación. Canal de reuniones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "sanciones",
+      "nombre": "⚖️・sanciones",
+      "tipo": "text",
+      "tema": "Coordinación interna del equipo de moderación. Canal de sanciones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "apelaciones-staff",
+      "nombre": "📨・apelaciones-staff",
+      "tipo": "text",
+      "tema": "Coordinación interna del equipo de moderación. Canal de apelaciones staff. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "tareas-staff",
+      "nombre": "✅・tareas-staff",
+      "tipo": "forum",
+      "tema": "Coordinación interna del equipo de moderación. Canal de tareas staff. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "notas-staff",
+      "nombre": "🗒️・notas-staff",
+      "tipo": "text",
+      "tema": "Coordinación interna del equipo de moderación. Canal de notas staff. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    }
+  ]
+}

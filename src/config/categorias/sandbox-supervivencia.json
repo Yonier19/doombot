@@ -1,0 +1,118 @@
+{
+  "key": "sandbox-supervivencia",
+  "nombre": "🧱 SANDBOX / SUPERVIVENCIA",
+  "tema": "Construcciones, supervivencia, mods y servidores de juego.",
+  "permisos": {
+    "audience": "gaming",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "minecraft-construcciones",
+      "nombre": "🧱・minecraft-construcciones",
+      "tipo": "forum",
+      "tema": "Construcciones, supervivencia, mods y servidores de juego. Canal de minecraft construcciones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "ark-survival",
+      "nombre": "🦖・ark-survival",
+      "tipo": "text",
+      "tema": "Construcciones, supervivencia, mods y servidores de juego. Canal de ark survival. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "valheim",
+      "nombre": "🌲・valheim",
+      "tipo": "text",
+      "tema": "Construcciones, supervivencia, mods y servidores de juego. Canal de valheim. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "rust",
+      "nombre": "🧟・rust",
+      "tipo": "text",
+      "tema": "Construcciones, supervivencia, mods y servidores de juego. Canal de rust. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "servidores-de-juego",
+      "nombre": "🖥️・servidores-de-juego",
+      "tipo": "text",
+      "tema": "Construcciones, supervivencia, mods y servidores de juego. Canal de servidores de juego. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "mods-y-recursos",
+      "nombre": "🧰・mods-y-recursos",
+      "tipo": "text",
+      "tema": "Construcciones, supervivencia, mods y servidores de juego. Canal de mods y recursos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "capturas-y-builds",
+      "nombre": "📸・capturas-y-builds",
+      "tipo": "text",
+      "tema": "Construcciones, supervivencia, mods y servidores de juego. Canal de capturas y builds. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ayuda-supervivencia",
+      "nombre": "🆘・ayuda-supervivencia",
+      "tipo": "forum",
+      "tema": "Construcciones, supervivencia, mods y servidores de juego. Canal de ayuda supervivencia. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    }
+  ]
+}

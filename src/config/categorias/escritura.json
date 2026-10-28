@@ -1,0 +1,114 @@
+{
+  "key": "escritura",
+  "nombre": "✍️ ESCRITURA",
+  "tema": "Escritura creativa, lectura e intercambio de textos.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "relatos",
+      "nombre": "📖・relatos",
+      "tipo": "text",
+      "tema": "Escritura creativa, lectura e intercambio de textos. Canal de relatos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "poesia",
+      "nombre": "🪶・poesia",
+      "tipo": "text",
+      "tema": "Escritura creativa, lectura e intercambio de textos. Canal de poesia. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "worldbuilding",
+      "nombre": "🌍・worldbuilding",
+      "tipo": "text",
+      "tema": "Escritura creativa, lectura e intercambio de textos. Canal de worldbuilding. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "rol-texto",
+      "nombre": "🎭・rol-texto",
+      "tipo": "text",
+      "tema": "Escritura creativa, lectura e intercambio de textos. Canal de rol texto. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "feedback-escritura",
+      "nombre": "💬・feedback-escritura",
+      "tipo": "forum",
+      "tema": "Escritura creativa, lectura e intercambio de textos. Canal de feedback escritura. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "ideas",
+      "nombre": "💡・ideas",
+      "tipo": "text",
+      "tema": "Escritura creativa, lectura e intercambio de textos. Canal de ideas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "libros",
+      "nombre": "📚・libros",
+      "tipo": "text",
+      "tema": "Escritura creativa, lectura e intercambio de textos. Canal de libros. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "prompts-de-escritura",
+      "nombre": "📝・prompts-de-escritura",
+      "tipo": "text",
+      "tema": "Escritura creativa, lectura e intercambio de textos. Canal de prompts de escritura. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

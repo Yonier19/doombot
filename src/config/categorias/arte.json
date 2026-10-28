@@ -1,0 +1,114 @@
+{
+  "key": "arte",
+  "nombre": "🎨 ARTE",
+  "tema": "Creación artística, exhibición y crítica constructiva.",
+  "permisos": {
+    "audience": "art",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "arte-digital",
+      "nombre": "🖌️・arte-digital",
+      "tipo": "text",
+      "tema": "Creación artística, exhibición y crítica constructiva. Canal de arte digital. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "art",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "dibujo",
+      "nombre": "✏️・dibujo",
+      "tipo": "text",
+      "tema": "Creación artística, exhibición y crítica constructiva. Canal de dibujo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "art",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ilustracion",
+      "nombre": "🖼️・ilustracion",
+      "tipo": "text",
+      "tema": "Creación artística, exhibición y crítica constructiva. Canal de ilustracion. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "art",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "diseno-grafico",
+      "nombre": "🎨・diseno-grafico",
+      "tipo": "text",
+      "tema": "Creación artística, exhibición y crítica constructiva. Canal de diseno grafico. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "art",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "pixel-art",
+      "nombre": "👾・pixel-art",
+      "tipo": "text",
+      "tema": "Creación artística, exhibición y crítica constructiva. Canal de pixel art. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "art",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "arte-3d",
+      "nombre": "🧊・arte-3d",
+      "tipo": "text",
+      "tema": "Creación artística, exhibición y crítica constructiva. Canal de arte 3d. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "art",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "feedback-arte",
+      "nombre": "💬・feedback-arte",
+      "tipo": "forum",
+      "tema": "Creación artística, exhibición y crítica constructiva. Canal de feedback arte. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "art",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "retos-arte",
+      "nombre": "🏅・retos-arte",
+      "tipo": "text",
+      "tema": "Creación artística, exhibición y crítica constructiva. Canal de retos arte. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "art",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "key": "finanzas",
+  "nombre": "💰 FINANZAS",
+  "tema": "Educación y conversación responsable sobre finanzas.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "finanzas-personales",
+      "nombre": "💳・finanzas-personales",
+      "tipo": "text",
+      "tema": "Educación y conversación responsable sobre finanzas. Canal de finanzas personales. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ahorro",
+      "nombre": "🐷・ahorro",
+      "tipo": "text",
+      "tema": "Educación y conversación responsable sobre finanzas. Canal de ahorro. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "inversion",
+      "nombre": "📈・inversion",
+      "tipo": "text",
+      "tema": "Educación y conversación responsable sobre finanzas. Canal de inversion. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "cripto",
+      "nombre": "₿・cripto",
+      "tipo": "text",
+      "tema": "Educación y conversación responsable sobre finanzas. Canal de cripto. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "mercados",
+      "nombre": "📊・mercados",
+      "tipo": "text",
+      "tema": "Educación y conversación responsable sobre finanzas. Canal de mercados. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "educacion-financiera",
+      "nombre": "🎓・educacion-financiera",
+      "tipo": "text",
+      "tema": "Educación y conversación responsable sobre finanzas. Canal de educacion financiera. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "herramientas-financieras",
+      "nombre": "🧮・herramientas-financieras",
+      "tipo": "text",
+      "tema": "Educación y conversación responsable sobre finanzas. Canal de herramientas financieras. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "prevencion-de-estafas",
+      "nombre": "🛡️・prevencion-de-estafas",
+      "tipo": "text",
+      "tema": "Educación y conversación responsable sobre finanzas. Canal de prevencion de estafas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

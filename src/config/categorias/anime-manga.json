@@ -1,0 +1,114 @@
+{
+  "key": "anime-manga",
+  "nombre": "🎌 ANIME Y MANGA",
+  "tema": "Anime, manga, cultura y creaciones de fans.",
+  "permisos": {
+    "audience": "anime",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "anime",
+      "nombre": "🎌・anime",
+      "tipo": "text",
+      "tema": "Anime, manga, cultura y creaciones de fans. Canal de anime. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "anime",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "manga",
+      "nombre": "📚・manga",
+      "tipo": "text",
+      "tema": "Anime, manga, cultura y creaciones de fans. Canal de manga. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "anime",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "recomendaciones-anime",
+      "nombre": "🌟・recomendaciones-anime",
+      "tipo": "forum",
+      "tema": "Anime, manga, cultura y creaciones de fans. Canal de recomendaciones anime. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "anime",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "estrenos-anime",
+      "nombre": "🆕・estrenos-anime",
+      "tipo": "text",
+      "tema": "Anime, manga, cultura y creaciones de fans. Canal de estrenos anime. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "anime",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "memes-anime",
+      "nombre": "😂・memes-anime",
+      "tipo": "text",
+      "tema": "Anime, manga, cultura y creaciones de fans. Canal de memes anime. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "anime",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "cosplay",
+      "nombre": "🎭・cosplay",
+      "tipo": "text",
+      "tema": "Anime, manga, cultura y creaciones de fans. Canal de cosplay. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "anime",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "fanart-anime",
+      "nombre": "🖌️・fanart-anime",
+      "tipo": "text",
+      "tema": "Anime, manga, cultura y creaciones de fans. Canal de fanart anime. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "anime",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "spoilers-anime",
+      "nombre": "🚫・spoilers-anime",
+      "tipo": "text",
+      "tema": "Anime, manga, cultura y creaciones de fans. Canal de spoilers anime. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "anime",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

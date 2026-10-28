@@ -1,0 +1,110 @@
+{
+  "key": "archivo",
+  "nombre": "🗄️ ARCHIVO",
+  "tema": "Contenido histórico conservado en modo de solo lectura.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": true,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": true,
+  "canales": [
+    {
+      "key": "canales-historicos",
+      "nombre": "🗄️・canales-historicos",
+      "tipo": "text",
+      "tema": "Contenido histórico conservado en modo de solo lectura. Canal de canales historicos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false
+      }
+    },
+    {
+      "key": "anuncios-antiguos",
+      "nombre": "📢・anuncios-antiguos",
+      "tipo": "text",
+      "tema": "Contenido histórico conservado en modo de solo lectura. Canal de anuncios antiguos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false
+      }
+    },
+    {
+      "key": "eventos-pasados",
+      "nombre": "🏆・eventos-pasados",
+      "tipo": "text",
+      "tema": "Contenido histórico conservado en modo de solo lectura. Canal de eventos pasados. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false
+      }
+    },
+    {
+      "key": "tickets-antiguos",
+      "nombre": "🎫・tickets-antiguos",
+      "tipo": "text",
+      "tema": "Contenido histórico conservado en modo de solo lectura. Canal de tickets antiguos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false
+      }
+    },
+    {
+      "key": "reglas-anteriores",
+      "nombre": "📜・reglas-anteriores",
+      "tipo": "text",
+      "tema": "Contenido histórico conservado en modo de solo lectura. Canal de reglas anteriores. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false
+      }
+    },
+    {
+      "key": "noticias-archivadas",
+      "nombre": "🗞️・noticias-archivadas",
+      "tipo": "text",
+      "tema": "Contenido histórico conservado en modo de solo lectura. Canal de noticias archivadas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false
+      }
+    },
+    {
+      "key": "galeria-historica",
+      "nombre": "🌟・galeria-historica",
+      "tipo": "text",
+      "tema": "Contenido histórico conservado en modo de solo lectura. Canal de galeria historica. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false
+      }
+    },
+    {
+      "key": "recursos-archivados",
+      "nombre": "📚・recursos-archivados",
+      "tipo": "text",
+      "tema": "Contenido histórico conservado en modo de solo lectura. Canal de recursos archivados. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false
+      }
+    }
+  ]
+}

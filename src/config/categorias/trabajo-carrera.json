@@ -1,0 +1,114 @@
+{
+  "key": "trabajo-carrera",
+  "nombre": "💼 TRABAJO Y CARRERA",
+  "tema": "Desarrollo profesional, oportunidades y networking.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "ofertas-laborales",
+      "nombre": "💼・ofertas-laborales",
+      "tipo": "text",
+      "tema": "Desarrollo profesional, oportunidades y networking. Canal de ofertas laborales. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "revision-de-cv",
+      "nombre": "📄・revision-de-cv",
+      "tipo": "forum",
+      "tema": "Desarrollo profesional, oportunidades y networking. Canal de revision de cv. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "freelance",
+      "nombre": "🧑‍💻・freelance",
+      "tipo": "text",
+      "tema": "Desarrollo profesional, oportunidades y networking. Canal de freelance. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "emprendimiento",
+      "nombre": "🚀・emprendimiento",
+      "tipo": "text",
+      "tema": "Desarrollo profesional, oportunidades y networking. Canal de emprendimiento. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "networking",
+      "nombre": "🤝・networking",
+      "tipo": "text",
+      "tema": "Desarrollo profesional, oportunidades y networking. Canal de networking. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "entrevistas",
+      "nombre": "🎤・entrevistas",
+      "tipo": "text",
+      "tema": "Desarrollo profesional, oportunidades y networking. Canal de entrevistas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "logros-profesionales",
+      "nombre": "🏆・logros-profesionales",
+      "tipo": "text",
+      "tema": "Desarrollo profesional, oportunidades y networking. Canal de logros profesionales. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "desarrollo-profesional",
+      "nombre": "📈・desarrollo-profesional",
+      "tipo": "text",
+      "tema": "Desarrollo profesional, oportunidades y networking. Canal de desarrollo profesional. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "key": "deportes",
+  "nombre": "⚽ DEPORTES",
+  "tema": "Deportes, análisis y conversación recreativa.",
+  "permisos": {
+    "audience": "sports",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "futbol",
+      "nombre": "⚽・futbol",
+      "tipo": "text",
+      "tema": "Deportes, análisis y conversación recreativa. Canal de futbol. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "sports",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "baloncesto",
+      "nombre": "🏀・baloncesto",
+      "tipo": "text",
+      "tema": "Deportes, análisis y conversación recreativa. Canal de baloncesto. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "sports",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "deportes-general",
+      "nombre": "🏅・deportes-general",
+      "tipo": "text",
+      "tema": "Deportes, análisis y conversación recreativa. Canal de deportes general. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "sports",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "resultados-deportivos",
+      "nombre": "📊・resultados-deportivos",
+      "tipo": "text",
+      "tema": "Deportes, análisis y conversación recreativa. Canal de resultados deportivos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "sports",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "debates-deportivos",
+      "nombre": "🗣️・debates-deportivos",
+      "tipo": "text",
+      "tema": "Deportes, análisis y conversación recreativa. Canal de debates deportivos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "sports",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "fantasy-deportes",
+      "nombre": "🧢・fantasy-deportes",
+      "tipo": "text",
+      "tema": "Deportes, análisis y conversación recreativa. Canal de fantasy deportes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "sports",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "apuestas-de-broma",
+      "nombre": "🎲・apuestas-de-broma",
+      "tipo": "text",
+      "tema": "Deportes, análisis y conversación recreativa. Canal de apuestas de broma. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "sports",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "deporte-y-bienestar",
+      "nombre": "🏃・deporte-y-bienestar",
+      "tipo": "text",
+      "tema": "Deportes, análisis y conversación recreativa. Canal de deporte y bienestar. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "sports",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

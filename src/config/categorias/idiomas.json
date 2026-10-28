@@ -1,0 +1,118 @@
+{
+  "key": "idiomas",
+  "nombre": "🌍 IDIOMAS",
+  "tema": "Aprendizaje, práctica e intercambio de idiomas.",
+  "permisos": {
+    "audience": "study",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "ingles",
+      "nombre": "🇬🇧・ingles",
+      "tipo": "text",
+      "tema": "Aprendizaje, práctica e intercambio de idiomas. Canal de ingles. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "espanol",
+      "nombre": "🇪🇸・espanol",
+      "tipo": "text",
+      "tema": "Aprendizaje, práctica e intercambio de idiomas. Canal de espanol. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "frances",
+      "nombre": "🇫🇷・frances",
+      "tipo": "text",
+      "tema": "Aprendizaje, práctica e intercambio de idiomas. Canal de frances. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "aleman",
+      "nombre": "🇩🇪・aleman",
+      "tipo": "text",
+      "tema": "Aprendizaje, práctica e intercambio de idiomas. Canal de aleman. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "japones",
+      "nombre": "🇯🇵・japones",
+      "tipo": "text",
+      "tema": "Aprendizaje, práctica e intercambio de idiomas. Canal de japones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "intercambio-idiomas",
+      "nombre": "🤝・intercambio-idiomas",
+      "tipo": "forum",
+      "tema": "Aprendizaje, práctica e intercambio de idiomas. Canal de intercambio idiomas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "practica-escrita",
+      "nombre": "✍️・practica-escrita",
+      "tipo": "forum",
+      "tema": "Aprendizaje, práctica e intercambio de idiomas. Canal de practica escrita. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "practica-conversacion",
+      "nombre": "🗣️・practica-conversacion",
+      "tipo": "text",
+      "tema": "Aprendizaje, práctica e intercambio de idiomas. Canal de practica conversacion. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

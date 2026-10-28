@@ -1,0 +1,110 @@
+{
+  "key": "diversion",
+  "nombre": "😂 DIVERSIÓN",
+  "tema": "Humor y actividades ligeras de la comunidad.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "chistes",
+      "nombre": "😄・chistes",
+      "tipo": "text",
+      "tema": "Humor y actividades ligeras de la comunidad. Canal de chistes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "videos-graciosos",
+      "nombre": "🎞️・videos-graciosos",
+      "tipo": "text",
+      "tema": "Humor y actividades ligeras de la comunidad. Canal de videos graciosos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "shitpost",
+      "nombre": "🌀・shitpost",
+      "tipo": "text",
+      "tema": "Humor y actividades ligeras de la comunidad. Canal de shitpost. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "retos",
+      "nombre": "🎯・retos",
+      "tipo": "text",
+      "tema": "Humor y actividades ligeras de la comunidad. Canal de retos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "confesiones",
+      "nombre": "🤫・confesiones",
+      "tipo": "text",
+      "tema": "Humor y actividades ligeras de la comunidad. Canal de confesiones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "juegos-de-palabras",
+      "nombre": "🔤・juegos-de-palabras",
+      "tipo": "text",
+      "tema": "Humor y actividades ligeras de la comunidad. Canal de juegos de palabras. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "trivia",
+      "nombre": "🧠・trivia",
+      "tipo": "text",
+      "tema": "Humor y actividades ligeras de la comunidad. Canal de trivia. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "juegos-rapidos",
+      "nombre": "🎲・juegos-rapidos",
+      "tipo": "text",
+      "tema": "Humor y actividades ligeras de la comunidad. Canal de juegos rapidos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

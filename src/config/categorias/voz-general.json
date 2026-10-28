@@ -1,0 +1,122 @@
+{
+  "key": "voz-general",
+  "nombre": "🔊 VOZ GENERAL",
+  "tema": "Salas de voz para conversar y compartir en comunidad.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "sala-general",
+      "nombre": "🔊・sala-general",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de sala general. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "sala-2",
+      "nombre": "🔊・sala-2",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de sala 2. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "sala-3",
+      "nombre": "🔊・sala-3",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de sala 3. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "sala-4",
+      "nombre": "🔊・sala-4",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de sala 4. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "sala-5",
+      "nombre": "🔊・sala-5",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de sala 5. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "sala-6",
+      "nombre": "🔊・sala-6",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de sala 6. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "charla-tranquila",
+      "nombre": "🌙・charla-tranquila",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de charla tranquila. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "streaming-general",
+      "nombre": "📺・streaming-general",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de streaming general. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "afk",
+      "nombre": "💤・afk",
+      "tipo": "voice",
+      "tema": "Salas de voz para conversar y compartir en comunidad. Canal de afk. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

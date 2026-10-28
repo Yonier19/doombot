@@ -1,0 +1,114 @@
+{
+  "key": "gaming-general",
+  "nombre": "🎮 GAMING GENERAL",
+  "tema": "Comunidad, noticias y actividades generales de videojuegos.",
+  "permisos": {
+    "audience": "gaming",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "busco-equipo",
+      "nombre": "🔎・busco-equipo",
+      "tipo": "forum",
+      "tema": "Comunidad, noticias y actividades generales de videojuegos. Canal de busco equipo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "clips",
+      "nombre": "🎬・clips",
+      "tipo": "text",
+      "tema": "Comunidad, noticias y actividades generales de videojuegos. Canal de clips. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "torneos",
+      "nombre": "🏆・torneos",
+      "tipo": "text",
+      "tema": "Comunidad, noticias y actividades generales de videojuegos. Canal de torneos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "noticias-gaming",
+      "nombre": "🗞️・noticias-gaming",
+      "tipo": "text",
+      "tema": "Comunidad, noticias y actividades generales de videojuegos. Canal de noticias gaming. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "setups",
+      "nombre": "🖥️・setups",
+      "tipo": "text",
+      "tema": "Comunidad, noticias y actividades generales de videojuegos. Canal de setups. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ofertas-juegos",
+      "nombre": "🏷️・ofertas-juegos",
+      "tipo": "text",
+      "tema": "Comunidad, noticias y actividades generales de videojuegos. Canal de ofertas juegos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "memes-gamer",
+      "nombre": "😂・memes-gamer",
+      "tipo": "text",
+      "tema": "Comunidad, noticias y actividades generales de videojuegos. Canal de memes gamer. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "gaming-charla",
+      "nombre": "🎮・gaming-charla",
+      "tipo": "text",
+      "tema": "Comunidad, noticias y actividades generales de videojuegos. Canal de gaming charla. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

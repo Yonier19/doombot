@@ -1,0 +1,110 @@
+{
+  "key": "registros",
+  "nombre": "📜 REGISTROS",
+  "tema": "Registros internos para moderación y diagnóstico.",
+  "permisos": {
+    "audience": "staff",
+    "readOnly": false,
+    "private": true
+  },
+  "privado": true,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "registro-de-moderacion",
+      "nombre": "🛡️・registro-de-moderacion",
+      "tipo": "text",
+      "tema": "Registros internos para moderación y diagnóstico. Canal de registro de moderacion. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "registro-de-mensajes",
+      "nombre": "💬・registro-de-mensajes",
+      "tipo": "text",
+      "tema": "Registros internos para moderación y diagnóstico. Canal de registro de mensajes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "registro-de-voz",
+      "nombre": "🔊・registro-de-voz",
+      "tipo": "text",
+      "tema": "Registros internos para moderación y diagnóstico. Canal de registro de voz. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "registro-de-entradas-y-salidas",
+      "nombre": "🚪・registro-de-entradas-y-salidas",
+      "tipo": "text",
+      "tema": "Registros internos para moderación y diagnóstico. Canal de registro de entradas y salidas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "registro-de-roles",
+      "nombre": "🏷️・registro-de-roles",
+      "tipo": "text",
+      "tema": "Registros internos para moderación y diagnóstico. Canal de registro de roles. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "registro-de-canales",
+      "nombre": "🗂️・registro-de-canales",
+      "tipo": "text",
+      "tema": "Registros internos para moderación y diagnóstico. Canal de registro de canales. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "registro-de-tickets",
+      "nombre": "🎫・registro-de-tickets",
+      "tipo": "text",
+      "tema": "Registros internos para moderación y diagnóstico. Canal de registro de tickets. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    },
+    {
+      "key": "registro-de-bot",
+      "nombre": "🤖・registro-de-bot",
+      "tipo": "text",
+      "tema": "Registros internos para moderación y diagnóstico. Canal de registro de bot. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "staff",
+        "readOnly": false,
+        "private": true
+      }
+    }
+  ]
+}

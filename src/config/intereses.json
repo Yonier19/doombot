@@ -1,0 +1,78 @@
+{
+  "maxPerUser": 5,
+  "interests": [
+    {
+      "key": "gaming",
+      "roleKey": "interest_gaming",
+      "label": "🎮 Gaming",
+      "categories": [
+        "gaming-general",
+        "juegos-populares",
+        "shooters",
+        "moba-estrategia",
+        "sandbox-supervivencia",
+        "juegos-moviles",
+        "voz-gaming"
+      ]
+    },
+    {
+      "key": "art",
+      "roleKey": "interest_art",
+      "label": "🎨 Arte",
+      "categories": [
+        "arte"
+      ]
+    },
+    {
+      "key": "programming",
+      "roleKey": "interest_programming",
+      "label": "💻 Programación",
+      "categories": [
+        "programacion"
+      ]
+    },
+    {
+      "key": "anime",
+      "roleKey": "interest_anime",
+      "label": "🎌 Anime",
+      "categories": [
+        "anime-manga"
+      ]
+    },
+    {
+      "key": "sports",
+      "roleKey": "interest_sports",
+      "label": "⚽ Deportes",
+      "categories": [
+        "deportes"
+      ]
+    },
+    {
+      "key": "music",
+      "roleKey": "interest_music",
+      "label": "🎵 Música",
+      "categories": [
+        "musica-social",
+        "voz-musica"
+      ]
+    },
+    {
+      "key": "study",
+      "roleKey": "interest_study",
+      "label": "📚 Estudio",
+      "categories": [
+        "estudio",
+        "idiomas",
+        "voz-estudio"
+      ]
+    },
+    {
+      "key": "technology",
+      "roleKey": "interest_technology",
+      "label": "🛠️ Tecnología",
+      "categories": [
+        "tecnologia"
+      ]
+    }
+  ]
+}

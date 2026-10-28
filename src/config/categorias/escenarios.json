@@ -1,0 +1,110 @@
+{
+  "key": "escenarios",
+  "nombre": "🎙️ ESCENARIOS",
+  "tema": "Canales de escenario para eventos y presentaciones en vivo.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "eventos-live",
+      "nombre": "📡・eventos-live",
+      "tipo": "stage",
+      "tema": "Canales de escenario para eventos y presentaciones en vivo. Canal de eventos live. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "charlas",
+      "nombre": "🎙️・charlas",
+      "tipo": "stage",
+      "tema": "Canales de escenario para eventos y presentaciones en vivo. Canal de charlas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ama",
+      "nombre": "❓・ama",
+      "tipo": "stage",
+      "tema": "Canales de escenario para eventos y presentaciones en vivo. Canal de ama. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "conciertos",
+      "nombre": "🎵・conciertos",
+      "tipo": "stage",
+      "tema": "Canales de escenario para eventos y presentaciones en vivo. Canal de conciertos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "presentaciones",
+      "nombre": "🖥️・presentaciones",
+      "tipo": "stage",
+      "tema": "Canales de escenario para eventos y presentaciones en vivo. Canal de presentaciones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "panel-de-estrado",
+      "nombre": "🗣️・panel-de-estrado",
+      "tipo": "stage",
+      "tema": "Canales de escenario para eventos y presentaciones en vivo. Canal de panel de estrado. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "preguntas-escenario",
+      "nombre": "🙋・preguntas-escenario",
+      "tipo": "stage",
+      "tema": "Canales de escenario para eventos y presentaciones en vivo. Canal de preguntas escenario. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "agenda-escenarios",
+      "nombre": "📅・agenda-escenarios",
+      "tipo": "text",
+      "tema": "Canales de escenario para eventos y presentaciones en vivo. Canal de agenda escenarios. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

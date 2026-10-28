@@ -1,0 +1,110 @@
+{
+  "key": "eventos",
+  "nombre": "🏆 EVENTOS",
+  "tema": "Organización, anuncios y resultados de eventos comunitarios.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "calendario",
+      "nombre": "📅・calendario",
+      "tipo": "text",
+      "tema": "Organización, anuncios y resultados de eventos comunitarios. Canal de calendario. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "torneos-eventos",
+      "nombre": "🏆・torneos-eventos",
+      "tipo": "text",
+      "tema": "Organización, anuncios y resultados de eventos comunitarios. Canal de torneos eventos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "resultados-eventos",
+      "nombre": "📊・resultados-eventos",
+      "tipo": "text",
+      "tema": "Organización, anuncios y resultados de eventos comunitarios. Canal de resultados eventos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "sorteos-eventos",
+      "nombre": "🎁・sorteos-eventos",
+      "tipo": "text",
+      "tema": "Organización, anuncios y resultados de eventos comunitarios. Canal de sorteos eventos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "concursos",
+      "nombre": "🎨・concursos",
+      "tipo": "text",
+      "tema": "Organización, anuncios y resultados de eventos comunitarios. Canal de concursos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "eventos-voz",
+      "nombre": "🔊・eventos-voz",
+      "tipo": "voice",
+      "tema": "Organización, anuncios y resultados de eventos comunitarios. Canal de eventos voz. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "hall-de-la-fama",
+      "nombre": "🌟・hall-de-la-fama",
+      "tipo": "text",
+      "tema": "Organización, anuncios y resultados de eventos comunitarios. Canal de hall de la fama. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "inscripciones-eventos",
+      "nombre": "📣・inscripciones-eventos",
+      "tipo": "text",
+      "tema": "Organización, anuncios y resultados de eventos comunitarios. Canal de inscripciones eventos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

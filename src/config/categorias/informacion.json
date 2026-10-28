@@ -1,0 +1,119 @@
+{
+  "key": "informacion",
+  "nombre": "📰 INFORMACIÓN",
+  "tema": "Comunicados, novedades y orientación oficial del servidor.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": true,
+    "private": false,
+    "newVisible": true
+  },
+  "privado": false,
+  "soloLectura": true,
+  "canales": [
+    {
+      "key": "noticias",
+      "nombre": "🗞️・noticias",
+      "tipo": "text",
+      "tema": "Comunicados, novedades y orientación oficial del servidor. Canal de noticias. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "actualizaciones",
+      "nombre": "🔄・actualizaciones",
+      "tipo": "text",
+      "tema": "Comunicados, novedades y orientación oficial del servidor. Canal de actualizaciones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "changelog",
+      "nombre": "📝・changelog",
+      "tipo": "text",
+      "tema": "Comunicados, novedades y orientación oficial del servidor. Canal de changelog. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "alianzas",
+      "nombre": "🤝・alianzas",
+      "tipo": "text",
+      "tema": "Comunicados, novedades y orientación oficial del servidor. Canal de alianzas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "normas-de-voz",
+      "nombre": "🎙️・normas-de-voz",
+      "tipo": "text",
+      "tema": "Comunicados, novedades y orientación oficial del servidor. Canal de normas de voz. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "normas-de-bots",
+      "nombre": "🤖・normas-de-bots",
+      "tipo": "text",
+      "tema": "Comunicados, novedades y orientación oficial del servidor. Canal de normas de bots. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "staff-equipo",
+      "nombre": "🛡️・staff-equipo",
+      "tipo": "text",
+      "tema": "Comunicados, novedades y orientación oficial del servidor. Canal de staff equipo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "avisos-importantes",
+      "nombre": "📌・avisos-importantes",
+      "tipo": "text",
+      "tema": "Comunicados, novedades y orientación oficial del servidor. Canal de avisos importantes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": true,
+        "private": false,
+        "newVisible": true
+      }
+    }
+  ]
+}

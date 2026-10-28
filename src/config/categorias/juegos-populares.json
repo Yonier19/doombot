@@ -1,0 +1,110 @@
+{
+  "key": "juegos-populares",
+  "nombre": "🕹️ JUEGOS POPULARES",
+  "tema": "Espacios de conversación para juegos populares configurables.",
+  "permisos": {
+    "audience": "gaming",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "minecraft",
+      "nombre": "🎮・minecraft",
+      "tipo": "text",
+      "tema": "Espacios de conversación para juegos populares configurables. Canal de minecraft. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "roblox",
+      "nombre": "🛡️・roblox",
+      "tipo": "text",
+      "tema": "Espacios de conversación para juegos populares configurables. Canal de roblox. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "grand-theft-auto",
+      "nombre": "🚗・grand-theft-auto",
+      "tipo": "text",
+      "tema": "Espacios de conversación para juegos populares configurables. Canal de grand theft auto. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "genshin-impact",
+      "nombre": "🧙・genshin-impact",
+      "tipo": "text",
+      "tema": "Espacios de conversación para juegos populares configurables. Canal de genshin impact. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "elden-ring",
+      "nombre": "⚔️・elden-ring",
+      "tipo": "text",
+      "tema": "Espacios de conversación para juegos populares configurables. Canal de elden ring. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "destiny-2",
+      "nombre": "🌌・destiny-2",
+      "tipo": "text",
+      "tema": "Espacios de conversación para juegos populares configurables. Canal de destiny 2. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "rocket-league",
+      "nombre": "🏎️・rocket-league",
+      "tipo": "text",
+      "tema": "Espacios de conversación para juegos populares configurables. Canal de rocket league. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "fortnite",
+      "nombre": "🧟・fortnite",
+      "tipo": "text",
+      "tema": "Espacios de conversación para juegos populares configurables. Canal de fortnite. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

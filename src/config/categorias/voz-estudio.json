@@ -1,0 +1,122 @@
+{
+  "key": "voz-estudio",
+  "nombre": "📚 VOZ ESTUDIO",
+  "tema": "Salas de voz para estudiar, tutorías y concentración.",
+  "permisos": {
+    "audience": "study",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "estudio-1",
+      "nombre": "📚・estudio-1",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de estudio 1. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "estudio-2",
+      "nombre": "📚・estudio-2",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de estudio 2. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "estudio-3",
+      "nombre": "📚・estudio-3",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de estudio 3. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "estudio-4",
+      "nombre": "📚・estudio-4",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de estudio 4. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "estudio-5",
+      "nombre": "📚・estudio-5",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de estudio 5. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "estudio-6",
+      "nombre": "📚・estudio-6",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de estudio 6. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "pomodoro",
+      "nombre": "🍅・pomodoro",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de pomodoro. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "concentracion-silenciosa",
+      "nombre": "🤫・concentracion-silenciosa",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de concentracion silenciosa. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "tutoria",
+      "nombre": "🧑‍🏫・tutoria",
+      "tipo": "voice",
+      "tema": "Salas de voz para estudiar, tutorías y concentración. Canal de tutoria. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

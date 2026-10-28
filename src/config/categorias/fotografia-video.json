@@ -1,0 +1,110 @@
+{
+  "key": "fotografia-video",
+  "nombre": "📸 FOTOGRAFÍA Y VIDEO",
+  "tema": "Fotografía, edición y producción audiovisual.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "fotografia",
+      "nombre": "📷・fotografia",
+      "tipo": "text",
+      "tema": "Fotografía, edición y producción audiovisual. Canal de fotografia. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "edicion-video",
+      "nombre": "🎬・edicion-video",
+      "tipo": "text",
+      "tema": "Fotografía, edición y producción audiovisual. Canal de edicion video. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "edicion-foto",
+      "nombre": "🖼️・edicion-foto",
+      "tipo": "text",
+      "tema": "Fotografía, edición y producción audiovisual. Canal de edicion foto. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "equipo-fotografico",
+      "nombre": "📸・equipo-fotografico",
+      "tipo": "text",
+      "tema": "Fotografía, edición y producción audiovisual. Canal de equipo fotografico. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "tutoriales-foto-video",
+      "nombre": "🎓・tutoriales-foto-video",
+      "tipo": "text",
+      "tema": "Fotografía, edición y producción audiovisual. Canal de tutoriales foto video. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "showcase",
+      "nombre": "🌟・showcase",
+      "tipo": "text",
+      "tema": "Fotografía, edición y producción audiovisual. Canal de showcase. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "concursos-fotografia",
+      "nombre": "🏆・concursos-fotografia",
+      "tipo": "text",
+      "tema": "Fotografía, edición y producción audiovisual. Canal de concursos fotografia. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "cinematografia",
+      "nombre": "🎞️・cinematografia",
+      "tipo": "text",
+      "tema": "Fotografía, edición y producción audiovisual. Canal de cinematografia. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

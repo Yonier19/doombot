@@ -1,0 +1,34 @@
+{
+  "modules": [
+    {
+      "key": "tickets",
+      "label": "Sistema de tickets",
+      "category": "soporte",
+      "channel": "crear-ticket"
+    },
+    {
+      "key": "temporary-voice",
+      "label": "Salas temporales",
+      "category": "salas-temporales",
+      "channel": "crear-sala"
+    },
+    {
+      "key": "music",
+      "label": "Comandos de música",
+      "category": "bots",
+      "channel": "musica-comandos"
+    },
+    {
+      "key": "giveaways",
+      "label": "Sorteos",
+      "category": "bots",
+      "channel": "sorteos"
+    },
+    {
+      "key": "economy",
+      "label": "Economía del bot",
+      "category": "bots",
+      "channel": "economia-bot"
+    }
+  ]
+}

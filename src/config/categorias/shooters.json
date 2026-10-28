@@ -1,0 +1,142 @@
+{
+  "key": "shooters",
+  "nombre": "🎯 SHOOTERS",
+  "tema": "Cooperativo, estrategias y novedades de juegos de disparos.",
+  "permisos": {
+    "audience": "gaming",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "valorant-general",
+      "nombre": "🔫・valorant-general",
+      "tipo": "text",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de valorant general. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "valorant-mapas-y-estrategias",
+      "nombre": "🗺️・valorant-mapas-y-estrategias",
+      "tipo": "forum",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de valorant mapas y estrategias. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "valorant-builds-y-agentes",
+      "nombre": "🧰・valorant-builds-y-agentes",
+      "tipo": "forum",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de valorant builds y agentes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "valorant-ranked",
+      "nombre": "🏅・valorant-ranked",
+      "tipo": "text",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de valorant ranked. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "valorant-busco-equipo",
+      "nombre": "🔎・valorant-busco-equipo",
+      "tipo": "forum",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de valorant busco equipo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "valorant-clips",
+      "nombre": "🎬・valorant-clips",
+      "tipo": "text",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de valorant clips. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "valorant-competitivo",
+      "nombre": "🏆・valorant-competitivo",
+      "tipo": "text",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de valorant competitivo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "estrategias-shooters",
+      "nombre": "🧠・estrategias-shooters",
+      "tipo": "forum",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de estrategias shooters. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "busco-equipo-shooters",
+      "nombre": "👥・busco-equipo-shooters",
+      "tipo": "forum",
+      "tema": "Cooperativo, estrategias y novedades de juegos de disparos. Canal de busco equipo shooters. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    }
+  ]
+}

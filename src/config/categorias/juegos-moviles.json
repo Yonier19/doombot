@@ -1,0 +1,118 @@
+{
+  "key": "juegos-moviles",
+  "nombre": "📱 JUEGOS MÓVILES",
+  "tema": "Juegos móviles, clanes, eventos y guías.",
+  "permisos": {
+    "audience": "gaming",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "juegos-moviles-general",
+      "nombre": "📱・juegos-moviles-general",
+      "tipo": "text",
+      "tema": "Juegos móviles, clanes, eventos y guías. Canal de juegos moviles general. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "clash-of-clans",
+      "nombre": "🏆・clash-of-clans",
+      "tipo": "text",
+      "tema": "Juegos móviles, clanes, eventos y guías. Canal de clash of clans. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "pubg-mobile",
+      "nombre": "🪂・pubg-mobile",
+      "tipo": "text",
+      "tema": "Juegos móviles, clanes, eventos y guías. Canal de pubg mobile. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "call-of-duty-mobile",
+      "nombre": "🎯・call-of-duty-mobile",
+      "tipo": "text",
+      "tema": "Juegos móviles, clanes, eventos y guías. Canal de call of duty mobile. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "busco-clan",
+      "nombre": "🔎・busco-clan",
+      "tipo": "forum",
+      "tema": "Juegos móviles, clanes, eventos y guías. Canal de busco clan. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "eventos-moviles",
+      "nombre": "📅・eventos-moviles",
+      "tipo": "text",
+      "tema": "Juegos móviles, clanes, eventos y guías. Canal de eventos moviles. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ofertas-moviles",
+      "nombre": "🏷️・ofertas-moviles",
+      "tipo": "text",
+      "tema": "Juegos móviles, clanes, eventos y guías. Canal de ofertas moviles. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "guias-moviles",
+      "nombre": "📖・guias-moviles",
+      "tipo": "forum",
+      "tema": "Juegos móviles, clanes, eventos y guías. Canal de guias moviles. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "key": "musica-social",
+  "nombre": "🎵 MÚSICA SOCIAL",
+  "tema": "Conversación y creación alrededor de la música.",
+  "permisos": {
+    "audience": "music",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "recomendaciones-musicales",
+      "nombre": "🎧・recomendaciones-musicales",
+      "tipo": "text",
+      "tema": "Conversación y creación alrededor de la música. Canal de recomendaciones musicales. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "playlists",
+      "nombre": "📻・playlists",
+      "tipo": "text",
+      "tema": "Conversación y creación alrededor de la música. Canal de playlists. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "produccion-musical",
+      "nombre": "🎚️・produccion-musical",
+      "tipo": "text",
+      "tema": "Conversación y creación alrededor de la música. Canal de produccion musical. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "instrumentos",
+      "nombre": "🎸・instrumentos",
+      "tipo": "text",
+      "tema": "Conversación y creación alrededor de la música. Canal de instrumentos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "covers",
+      "nombre": "🎤・covers",
+      "tipo": "text",
+      "tema": "Conversación y creación alrededor de la música. Canal de covers. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "letras-musicales",
+      "nombre": "📝・letras-musicales",
+      "tipo": "text",
+      "tema": "Conversación y creación alrededor de la música. Canal de letras musicales. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "conciertos",
+      "nombre": "🎫・conciertos",
+      "tipo": "text",
+      "tema": "Conversación y creación alrededor de la música. Canal de conciertos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "composicion-musical",
+      "nombre": "🎼・composicion-musical",
+      "tipo": "text",
+      "tema": "Conversación y creación alrededor de la música. Canal de composicion musical. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

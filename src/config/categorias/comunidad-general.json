@@ -1,0 +1,118 @@
+{
+  "key": "comunidad-general",
+  "nombre": "💬 COMUNIDAD GENERAL",
+  "tema": "Conversación general, presentaciones e intercambio entre miembros.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "general",
+      "nombre": "💬・general",
+      "tipo": "text",
+      "tema": "Conversación general, presentaciones e intercambio entre miembros. Canal de general. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "presentaciones",
+      "nombre": "👋・presentaciones",
+      "tipo": "text",
+      "tema": "Conversación general, presentaciones e intercambio entre miembros. Canal de presentaciones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "off-topic",
+      "nombre": "🌙・off-topic",
+      "tipo": "text",
+      "tema": "Conversación general, presentaciones e intercambio entre miembros. Canal de off topic. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "memes",
+      "nombre": "😂・memes",
+      "tipo": "text",
+      "tema": "Conversación general, presentaciones e intercambio entre miembros. Canal de memes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "debates",
+      "nombre": "🗣️・debates",
+      "tipo": "forum",
+      "tema": "Conversación general, presentaciones e intercambio entre miembros. Canal de debates. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "preguntas",
+      "nombre": "❔・preguntas",
+      "tipo": "forum",
+      "tema": "Conversación general, presentaciones e intercambio entre miembros. Canal de preguntas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "logros",
+      "nombre": "🏅・logros",
+      "tipo": "text",
+      "tema": "Conversación general, presentaciones e intercambio entre miembros. Canal de logros. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "fotos",
+      "nombre": "📷・fotos",
+      "tipo": "text",
+      "tema": "Conversación general, presentaciones e intercambio entre miembros. Canal de fotos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

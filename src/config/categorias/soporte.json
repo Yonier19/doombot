@@ -1,0 +1,119 @@
+{
+  "key": "soporte",
+  "nombre": "🎫 SOPORTE",
+  "tema": "Solicitudes de ayuda, incidencias y atención de soporte.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false,
+    "newVisible": true
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "crear-ticket",
+      "nombre": "🎫・crear-ticket",
+      "tipo": "text",
+      "tema": "Solicitudes de ayuda, incidencias y atención de soporte. Canal de crear ticket. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "reportes",
+      "nombre": "🚨・reportes",
+      "tipo": "text",
+      "tema": "Solicitudes de ayuda, incidencias y atención de soporte. Canal de reportes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "sugerencias",
+      "nombre": "💡・sugerencias",
+      "tipo": "forum",
+      "tema": "Solicitudes de ayuda, incidencias y atención de soporte. Canal de sugerencias. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false,
+        "newVisible": true
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "ayuda-general",
+      "nombre": "🆘・ayuda-general",
+      "tipo": "forum",
+      "tema": "Solicitudes de ayuda, incidencias y atención de soporte. Canal de ayuda general. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false,
+        "newVisible": true
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "apelaciones",
+      "nombre": "⚖️・apelaciones",
+      "tipo": "text",
+      "tema": "Solicitudes de ayuda, incidencias y atención de soporte. Canal de apelaciones. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false,
+        "newVisible": true
+      }
+    },
+    {
+      "key": "bugs",
+      "nombre": "🐛・bugs",
+      "tipo": "forum",
+      "tema": "Solicitudes de ayuda, incidencias y atención de soporte. Canal de bugs. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false,
+        "newVisible": true
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "tickets-cerrados",
+      "nombre": "🔒・tickets-cerrados",
+      "tipo": "text",
+      "tema": "Solicitudes de ayuda, incidencias y atención de soporte. Canal de tickets cerrados. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false,
+        "newVisible": true
+      },
+      "privado": true
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "key": "cine-series",
+  "nombre": "🎬 CINE Y SERIES",
+  "tema": "Cine, series, recomendaciones y críticas.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "peliculas",
+      "nombre": "🎥・peliculas",
+      "tipo": "text",
+      "tema": "Cine, series, recomendaciones y críticas. Canal de peliculas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "series",
+      "nombre": "📺・series",
+      "tipo": "text",
+      "tema": "Cine, series, recomendaciones y críticas. Canal de series. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "estrenos",
+      "nombre": "🍿・estrenos",
+      "tipo": "text",
+      "tema": "Cine, series, recomendaciones y críticas. Canal de estrenos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "recomendaciones-cine",
+      "nombre": "🌟・recomendaciones-cine",
+      "tipo": "forum",
+      "tema": "Cine, series, recomendaciones y críticas. Canal de recomendaciones cine. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "criticas-cine",
+      "nombre": "📝・criticas-cine",
+      "tipo": "forum",
+      "tema": "Cine, series, recomendaciones y críticas. Canal de criticas cine. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "teorias-cine",
+      "nombre": "🧩・teorias-cine",
+      "tipo": "text",
+      "tema": "Cine, series, recomendaciones y críticas. Canal de teorias cine. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "spoilers",
+      "nombre": "🚫・spoilers",
+      "tipo": "text",
+      "tema": "Cine, series, recomendaciones y críticas. Canal de spoilers. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "clasicos-del-cine",
+      "nombre": "🎞️・clasicos-del-cine",
+      "tipo": "text",
+      "tema": "Cine, series, recomendaciones y críticas. Canal de clasicos del cine. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "key": "vida-cotidiana",
+  "nombre": "🐾 VIDA COTIDIANA",
+  "tema": "Conversaciones y experiencias de la vida diaria.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "mascotas",
+      "nombre": "🐾・mascotas",
+      "tipo": "text",
+      "tema": "Conversaciones y experiencias de la vida diaria. Canal de mascotas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "comida",
+      "nombre": "🍽️・comida",
+      "tipo": "text",
+      "tema": "Conversaciones y experiencias de la vida diaria. Canal de comida. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "recetas",
+      "nombre": "🥘・recetas",
+      "tipo": "text",
+      "tema": "Conversaciones y experiencias de la vida diaria. Canal de recetas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "viajes",
+      "nombre": "✈️・viajes",
+      "tipo": "text",
+      "tema": "Conversaciones y experiencias de la vida diaria. Canal de viajes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "fitness",
+      "nombre": "🏃・fitness",
+      "tipo": "text",
+      "tema": "Conversaciones y experiencias de la vida diaria. Canal de fitness. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "salud-mental",
+      "nombre": "💚・salud-mental",
+      "tipo": "text",
+      "tema": "Conversaciones y experiencias de la vida diaria. Canal de salud mental. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "buenos-dias",
+      "nombre": "🌅・buenos-dias",
+      "tipo": "text",
+      "tema": "Conversaciones y experiencias de la vida diaria. Canal de buenos dias. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "consejos",
+      "nombre": "🧭・consejos",
+      "tipo": "text",
+      "tema": "Conversaciones y experiencias de la vida diaria. Canal de consejos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

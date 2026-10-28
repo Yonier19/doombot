@@ -1,0 +1,122 @@
+{
+  "key": "moba-estrategia",
+  "nombre": "⚔️ MOBA / ESTRATEGIA",
+  "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA.",
+  "permisos": {
+    "audience": "gaming",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "league-of-legends",
+      "nombre": "⚔️・league-of-legends",
+      "tipo": "text",
+      "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA. Canal de league of legends. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "dota-2",
+      "nombre": "🔮・dota-2",
+      "tipo": "text",
+      "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA. Canal de dota 2. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "guia-de-builds",
+      "nombre": "🏰・guia-de-builds",
+      "tipo": "forum",
+      "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA. Canal de guia de builds. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "guias-y-estrategias",
+      "nombre": "📚・guias-y-estrategias",
+      "tipo": "forum",
+      "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA. Canal de guias y estrategias. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "ranked-y-competitivo",
+      "nombre": "🏅・ranked-y-competitivo",
+      "tipo": "text",
+      "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA. Canal de ranked y competitivo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "torneos-moba",
+      "nombre": "🏆・torneos-moba",
+      "tipo": "text",
+      "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA. Canal de torneos moba. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "busco-equipo-moba",
+      "nombre": "🔎・busco-equipo-moba",
+      "tipo": "forum",
+      "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA. Canal de busco equipo moba. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "meta-y-parches",
+      "nombre": "🧠・meta-y-parches",
+      "tipo": "text",
+      "tema": "Estrategias, partidas competitivas y aprendizaje de MOBA. Canal de meta y parches. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "gaming",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

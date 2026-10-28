@@ -1,0 +1,110 @@
+{
+  "key": "tecnologia",
+  "nombre": "🛠️ TECNOLOGÍA",
+  "tema": "Tecnología, equipos, software y seguridad digital.",
+  "permisos": {
+    "audience": "technology",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "noticias-tech",
+      "nombre": "🗞️・noticias-tech",
+      "tipo": "text",
+      "tema": "Tecnología, equipos, software y seguridad digital. Canal de noticias tech. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "technology",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "hardware",
+      "nombre": "🖥️・hardware",
+      "tipo": "text",
+      "tema": "Tecnología, equipos, software y seguridad digital. Canal de hardware. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "technology",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "software",
+      "nombre": "💿・software",
+      "tipo": "text",
+      "tema": "Tecnología, equipos, software y seguridad digital. Canal de software. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "technology",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "celulares",
+      "nombre": "📱・celulares",
+      "tipo": "text",
+      "tema": "Tecnología, equipos, software y seguridad digital. Canal de celulares. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "technology",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "redes",
+      "nombre": "🌐・redes",
+      "tipo": "text",
+      "tema": "Tecnología, equipos, software y seguridad digital. Canal de redes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "technology",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ciberseguridad",
+      "nombre": "🔐・ciberseguridad",
+      "tipo": "text",
+      "tema": "Tecnología, equipos, software y seguridad digital. Canal de ciberseguridad. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "technology",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "inteligencia-artificial",
+      "nombre": "✨・inteligencia-artificial",
+      "tipo": "text",
+      "tema": "Tecnología, equipos, software y seguridad digital. Canal de inteligencia artificial. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "technology",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "soporte-tecnico",
+      "nombre": "🧰・soporte-tecnico",
+      "tipo": "text",
+      "tema": "Tecnología, equipos, software y seguridad digital. Canal de soporte tecnico. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "technology",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

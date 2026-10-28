@@ -1,0 +1,213 @@
+{
+  "messageXp": 20,
+  "messageCooldownSeconds": 60,
+  "voiceXpPerMinute": 5,
+  "levelXpMultiplier": 100,
+  "veteranDays": 90,
+  "rolesTopToBottom": [
+    {
+      "key": "owner",
+      "name": "Owner",
+      "color": "#F1C40F",
+      "automatic": false,
+      "permissions": ["Administrator"]
+    },
+    {
+      "key": "admin",
+      "name": "Admin",
+      "color": "#E74C3C",
+      "automatic": false,
+      "permissions": ["Administrator"]
+    },
+    {
+      "key": "moderator",
+      "name": "Moderador",
+      "color": "#3498DB",
+      "automatic": false,
+      "permissions": ["ManageMessages", "KickMembers", "BanMembers", "ModerateMembers"]
+    },
+    {
+      "key": "support",
+      "name": "Staff de apoyo",
+      "color": "#9B59B6",
+      "automatic": false,
+      "permissions": []
+    },
+    {
+      "key": "booster",
+      "name": "VIP / Booster",
+      "color": "#FF73FA",
+      "automatic": true,
+      "permissions": []
+    },
+    {
+      "key": "veteran",
+      "name": "Veterano",
+      "color": "#D4AC0D",
+      "automatic": true,
+      "permissions": []
+    },
+    {
+      "key": "legend",
+      "name": "Leyenda",
+      "color": "#E67E22",
+      "automatic": true,
+      "permissions": [],
+      "level": 30
+    },
+    {
+      "key": "regular",
+      "name": "Habitual",
+      "color": "#8E44AD",
+      "automatic": true,
+      "permissions": [],
+      "level": 15
+    },
+    {
+      "key": "active",
+      "name": "Activo",
+      "color": "#2ECC71",
+      "automatic": true,
+      "permissions": [],
+      "level": 5
+    },
+    {
+      "key": "member",
+      "name": "Miembro",
+      "color": "#27AE60",
+      "automatic": true,
+      "permissions": [
+        "ViewChannel",
+        "SendMessages",
+        "ReadMessageHistory",
+        "Connect",
+        "Speak",
+        "UseApplicationCommands"
+      ]
+    },
+    {
+      "key": "new",
+      "name": "Nuevo",
+      "color": "#95A5A6",
+      "automatic": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "color_red",
+      "name": "🔴 Rojo",
+      "color": "#E74C3C",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "color_blue",
+      "name": "🔵 Azul",
+      "color": "#3498DB",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "color_purple",
+      "name": "🟣 Morado",
+      "color": "#9B59B6",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "color_green",
+      "name": "🟢 Verde",
+      "color": "#2ECC71",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "interest_gaming",
+      "name": "🎮 Gaming",
+      "color": "#5865F2",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "interest_music",
+      "name": "🎵 Música",
+      "color": "#1ABC9C",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "interest_study",
+      "name": "📚 Estudio",
+      "color": "#F1C40F",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "interest_art",
+      "name": "🎨 Arte",
+      "color": "#E67E22",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "interest_programming",
+      "name": "💻 Programación",
+      "color": "#3498DB",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "interest_anime",
+      "name": "🎌 Anime",
+      "color": "#9B59B6",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "interest_sports",
+      "name": "⚽ Deportes",
+      "color": "#2ECC71",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "interest_technology",
+      "name": "🛠️ Tecnología",
+      "color": "#34495E",
+      "automatic": false,
+      "selfAssignable": true,
+      "hoist": false,
+      "permissions": []
+    },
+    {
+      "key": "muted",
+      "name": "Silenciado",
+      "color": "#7F8C8D",
+      "automatic": false,
+      "hoist": false,
+      "permissions": []
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "key": "estudio",
+  "nombre": "📚 ESTUDIO",
+  "tema": "Apoyo académico, recursos y espacios de estudio.",
+  "permisos": {
+    "audience": "study",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "tareas",
+      "nombre": "📝・tareas",
+      "tipo": "text",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de tareas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "recursos-estudio",
+      "nombre": "📚・recursos-estudio",
+      "tipo": "text",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de recursos estudio. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "dudas-estudio",
+      "nombre": "🆘・dudas-estudio",
+      "tipo": "forum",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de dudas estudio. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 10,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      },
+      "forum": {
+        "defaultReactionEmoji": "💬",
+        "defaultSortOrder": "LatestActivity"
+      }
+    },
+    {
+      "key": "matematicas",
+      "nombre": "➗・matematicas",
+      "tipo": "text",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de matematicas. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "ciencias",
+      "nombre": "🔬・ciencias",
+      "tipo": "text",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de ciencias. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "idiomas-estudio",
+      "nombre": "🌐・idiomas-estudio",
+      "tipo": "text",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de idiomas estudio. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "historia",
+      "nombre": "🏛️・historia",
+      "tipo": "text",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de historia. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "examenes",
+      "nombre": "🧠・examenes",
+      "tipo": "text",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de examenes. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "organizacion-estudio",
+      "nombre": "📅・organizacion-estudio",
+      "tipo": "text",
+      "tema": "Apoyo académico, recursos y espacios de estudio. Canal de organizacion estudio. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "study",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

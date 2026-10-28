@@ -1,0 +1,112 @@
+{
+  "key": "bots",
+  "nombre": "🤖 BOTS",
+  "tema": "Comandos y funciones de bots disponibles en el servidor.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "comandos-bot",
+      "nombre": "🤖・comandos-bot",
+      "tipo": "text",
+      "tema": "Comandos y funciones de bots disponibles en el servidor. Canal de comandos bot. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 2,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "botCommands": true
+    },
+    {
+      "key": "niveles",
+      "nombre": "🏆・niveles",
+      "tipo": "text",
+      "tema": "Comandos y funciones de bots disponibles en el servidor. Canal de niveles. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "sorteos",
+      "nombre": "🎁・sorteos",
+      "tipo": "text",
+      "tema": "Comandos y funciones de bots disponibles en el servidor. Canal de sorteos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "juegos-bot",
+      "nombre": "🎮・juegos-bot",
+      "tipo": "text",
+      "tema": "Comandos y funciones de bots disponibles en el servidor. Canal de juegos bot. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "musica-comandos",
+      "nombre": "🎵・musica-comandos",
+      "tipo": "text",
+      "tema": "Comandos y funciones de bots disponibles en el servidor. Canal de musica comandos. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 2,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "botCommands": true
+    },
+    {
+      "key": "economia-bot",
+      "nombre": "💰・economia-bot",
+      "tipo": "text",
+      "tema": "Comandos y funciones de bots disponibles en el servidor. Canal de economia bot. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "utilidades",
+      "nombre": "🧰・utilidades",
+      "tipo": "text",
+      "tema": "Comandos y funciones de bots disponibles en el servidor. Canal de utilidades. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "encuestas-bot",
+      "nombre": "🗳️・encuestas-bot",
+      "tipo": "text",
+      "tema": "Comandos y funciones de bots disponibles en el servidor. Canal de encuestas bot. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

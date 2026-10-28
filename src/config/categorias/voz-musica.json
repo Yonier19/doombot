@@ -1,0 +1,122 @@
+{
+  "key": "voz-musica",
+  "nombre": "🎵 VOZ MÚSICA",
+  "tema": "Salas de voz para música, karaoke y escucha social.",
+  "permisos": {
+    "audience": "music",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "musica-1",
+      "nombre": "🎵・musica-1",
+      "tipo": "voice",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de musica 1. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "musica-2",
+      "nombre": "🎵・musica-2",
+      "tipo": "voice",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de musica 2. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "musica-3",
+      "nombre": "🎵・musica-3",
+      "tipo": "voice",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de musica 3. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "musica-4",
+      "nombre": "🎵・musica-4",
+      "tipo": "voice",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de musica 4. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "musica-5",
+      "nombre": "🎵・musica-5",
+      "tipo": "voice",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de musica 5. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "lofi",
+      "nombre": "🌙・lofi",
+      "tipo": "voice",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de lofi. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "karaoke",
+      "nombre": "🎤・karaoke",
+      "tipo": "voice",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de karaoke. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "dj",
+      "nombre": "🎧・dj",
+      "tipo": "voice",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de dj. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    },
+    {
+      "key": "cola-de-musica",
+      "nombre": "📜・cola-de-musica",
+      "tipo": "text",
+      "tema": "Salas de voz para música, karaoke y escucha social. Canal de cola de musica. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 3,
+      "permisos": {
+        "audience": "music",
+        "readOnly": false,
+        "private": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "version": 2,
+  "roles": [
+    {
+      "key": "owner",
+      "nombre": "Owner",
+      "color": "#F1C40F",
+      "permisos": [
+        "Administrator"
+      ],
+      "automatic": false
+    },
+    {
+      "key": "admin",
+      "nombre": "Admin",
+      "color": "#E74C3C",
+      "permisos": [
+        "Administrator"
+      ],
+      "automatic": false
+    },
+    {
+      "key": "moderator",
+      "nombre": "Moderador",
+      "color": "#3498DB",
+      "permisos": [
+        "ManageMessages",
+        "KickMembers",
+        "BanMembers",
+        "ModerateMembers"
+      ],
+      "automatic": false
+    },
+    {
+      "key": "support",
+      "nombre": "Staff de apoyo",
+      "color": "#9B59B6",
+      "permisos": [],
+      "automatic": false
+    },
+    {
+      "key": "booster",
+      "nombre": "VIP / Booster",
+      "color": "#FF73FA",
+      "permisos": [],
+      "automatic": true
+    },
+    {
+      "key": "veteran",
+      "nombre": "Veterano",
+      "color": "#D4AC0D",
+      "permisos": [],
+      "automatic": true
+    },
+    {
+      "key": "legend",
+      "nombre": "Leyenda",
+      "color": "#E67E22",
+      "permisos": [],
+      "automatic": true
+    },
+    {
+      "key": "regular",
+      "nombre": "Habitual",
+      "color": "#8E44AD",
+      "permisos": [],
+      "automatic": true
+    },
+    {
+      "key": "active",
+      "nombre": "Activo",
+      "color": "#2ECC71",
+      "permisos": [],
+      "automatic": true
+    },
+    {
+      "key": "member",
+      "nombre": "Miembro",
+      "color": "#27AE60",
+      "permisos": [
+        "ViewChannel",
+        "SendMessages",
+        "ReadMessageHistory",
+        "Connect",
+        "Speak",
+        "UseApplicationCommands"
+      ],
+      "automatic": true
+    },
+    {
+      "key": "new",
+      "nombre": "Nuevo",
+      "color": "#95A5A6",
+      "permisos": [],
+      "automatic": true
+    },
+    {
+      "key": "muted",
+      "nombre": "Silenciado",
+      "color": "#7F8C8D",
+      "permisos": [],
+      "automatic": false
+    },
+    {
+      "key": "interest_gaming",
+      "nombre": "🎮 Gaming",
+      "color": "#5865F2",
+      "permisos": [],
+      "automatic": false,
+      "selfAssignable": true
+    },
+    {
+      "key": "interest_art",
+      "nombre": "🎨 Arte",
+      "color": "#E67E22",
+      "permisos": [],
+      "automatic": false,
+      "selfAssignable": true
+    },
+    {
+      "key": "interest_programming",
+      "nombre": "💻 Programación",
+      "color": "#3498DB",
+      "permisos": [],
+      "automatic": false,
+      "selfAssignable": true
+    },
+    {
+      "key": "interest_anime",
+      "nombre": "🎌 Anime",
+      "color": "#9B59B6",
+      "permisos": [],
+      "automatic": false,
+      "selfAssignable": true
+    },
+    {
+      "key": "interest_sports",
+      "nombre": "⚽ Deportes",
+      "color": "#2ECC71",
+      "permisos": [],
+      "automatic": false,
+      "selfAssignable": true
+    },
+    {
+      "key": "interest_music",
+      "nombre": "🎵 Música",
+      "color": "#1ABC9C",
+      "permisos": [],
+      "automatic": false,
+      "selfAssignable": true
+    },
+    {
+      "key": "interest_study",
+      "nombre": "📚 Estudio",
+      "color": "#F1C40F",
+      "permisos": [],
+      "automatic": false,
+      "selfAssignable": true
+    },
+    {
+      "key": "interest_technology",
+      "nombre": "🛠️ Tecnología",
+      "color": "#34495E",
+      "permisos": [],
+      "automatic": false,
+      "selfAssignable": true
+    }
+  ]
+}

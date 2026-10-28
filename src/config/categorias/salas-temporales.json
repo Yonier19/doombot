@@ -1,0 +1,118 @@
+{
+  "key": "salas-temporales",
+  "nombre": "➕ SALAS TEMPORALES",
+  "tema": "Canal de acceso y plantillas para salas de voz temporales.",
+  "permisos": {
+    "audience": "member",
+    "readOnly": false,
+    "private": false
+  },
+  "privado": false,
+  "soloLectura": false,
+  "canales": [
+    {
+      "key": "crear-sala",
+      "nombre": "➕・crear-sala",
+      "tipo": "voice",
+      "tema": "Canal de acceso y plantillas para salas de voz temporales. Canal de crear sala. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "temporaryRoomTrigger": true
+    },
+    {
+      "key": "duo",
+      "nombre": "👥・duo",
+      "tipo": "voice",
+      "tema": "Canal de acceso y plantillas para salas de voz temporales. Canal de duo. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "temporaryRoomTemplate": true
+    },
+    {
+      "key": "trio",
+      "nombre": "👥・trio",
+      "tipo": "voice",
+      "tema": "Canal de acceso y plantillas para salas de voz temporales. Canal de trio. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "temporaryRoomTemplate": true
+    },
+    {
+      "key": "squad",
+      "nombre": "🎮・squad",
+      "tipo": "voice",
+      "tema": "Canal de acceso y plantillas para salas de voz temporales. Canal de squad. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "temporaryRoomTemplate": true
+    },
+    {
+      "key": "privada",
+      "nombre": "🔒・privada",
+      "tipo": "voice",
+      "tema": "Canal de acceso y plantillas para salas de voz temporales. Canal de privada. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "temporaryRoomTemplate": true
+    },
+    {
+      "key": "charla",
+      "nombre": "💬・charla",
+      "tipo": "voice",
+      "tema": "Canal de acceso y plantillas para salas de voz temporales. Canal de charla. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "temporaryRoomTemplate": true
+    },
+    {
+      "key": "streaming",
+      "nombre": "📺・streaming",
+      "tipo": "voice",
+      "tema": "Canal de acceso y plantillas para salas de voz temporales. Canal de streaming. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "temporaryRoomTemplate": true
+    },
+    {
+      "key": "grupo-abierto",
+      "nombre": "🎲・grupo-abierto",
+      "tipo": "voice",
+      "tema": "Canal de acceso y plantillas para salas de voz temporales. Canal de grupo abierto. Comparte contenido relacionado con respeto y sigue las reglas del servidor.",
+      "slowmode": 0,
+      "permisos": {
+        "audience": "member",
+        "readOnly": false,
+        "private": false
+      },
+      "temporaryRoomTemplate": true
+    }
+  ]
+}
